@@ -1,0 +1,9 @@
+span#count {
+  font-size: 25px;
+}
+
+button {
+  background-color: rgb(76, 93, 114);
+  padding: 10px;
+  color: orange;
+}

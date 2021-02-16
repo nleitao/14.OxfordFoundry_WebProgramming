@@ -1,0 +1,29 @@
+/* <style> */
+
+body {
+    text-align: center;
+    background:url("/home/xjaro/Documents/4.JupyterNotebooks/4. Sandbox/14.OxfordFoundry_WebProgramming/2.WebAssembly/01-project/assets/backg.jpg");
+    background-size:cover;
+    background-position:center;
+    /* background: white; */
+    color: white;
+    font-family:helvetica;
+}
+
+p{
+font-size: 22px;
+}
+
+input {
+    border:0; 
+    padding:10px;
+    font-size:18px;
+}
+
+input[type="submit"]{
+      background:red;
+      color:white;
+    }
+
+
+/* </style> */
